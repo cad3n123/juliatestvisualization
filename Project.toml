@@ -1,0 +1,7 @@
+[deps]
+Blink = "ad839575-38b3-5650-b840-f874b8c74a25"
+GADM = "a8dd9ffe-31dc-4cf5-a379-ea69100a8233"
+Gtk = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
+Leaflet = "2ed2781b-9bfa-45ba-823d-d31db75b7d93"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
